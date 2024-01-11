@@ -12,3 +12,4 @@
 |백준| 2630  | 색종이 만들기 | [문제 풀이](/src/divide_and_conquer/baekjoon_2630.java) |
 |백준| 1992  | 쿼드트리   | [문제 풀이](/src/divide_and_conquer/baekjoon_1992.java) |
 |백준| 1780  | 종이의 개수 | [문제 풀이](/src/divide_and_conquer/baekjoon_1780.java) |
+|백준| 1629  | 곱셈     | [문제 풀이](/src/divide_and_conquer/baekjoon_1629.java) |
