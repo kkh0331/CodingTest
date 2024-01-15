@@ -15,3 +15,4 @@
 |백준| 1629  | 곱셈     | [문제 풀이](/src/divide_and_conquer/baekjoon_1629.java)  |
 |백준| 11401 | 이항 계수 3 | [문제 풀이](/src/divide_and_conquer/baekjoon_11401.java) |
 |백준| 2740  | 행렬 곱셈  | [문제 풀이](/src/divide_and_conquer/baekjoon_2740.java)  |
+|백준| 10830 | 행렬 제곱  | [문제 풀이](/src/divide_and_conquer/baekjoon_10830.java) |
