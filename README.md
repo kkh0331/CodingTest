@@ -1,10 +1,11 @@
 # Baekjoon
 ## Data Structure
 |사이트| 문제 번호 | 문제 제목 | 문제 풀이                                            |
-|---|-------|------|--------------------------------------------------|
+|---|-------|-------|--------------------------------------------------|
 |백준| 3986  | 좋은 단어 | [문제 풀이](/src/data_structure/baekjoon_3986.java)  |
-|백준| 10799 | 쇠막대기 | [문제 풀이](/src/data_structure/baekjoon_10799.java) |
-|백준| 10828 | 스택   | [문제 풀이](/src/data_structure/baekjoon_10828.java) |
+|백준| 10799 | 쇠막대기  | [문제 풀이](/src/data_structure/baekjoon_10799.java) |
+|백준| 10828 | 스택    | [문제 풀이](/src/data_structure/baekjoon_10828.java) |
+|백준| 2504  | 괄호의 값 | [문제 풀이](/src/data_structure/baekjoon_2504.java)  |
 
 ## Greedy Algorithm
 |사이트| 문제 번호 | 문제 제목 | 문제 풀이                                    |
