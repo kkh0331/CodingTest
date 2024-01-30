@@ -28,6 +28,7 @@
 |백준| 1068  | 트리 | [문제 풀이](/src/tree/baekjoon_1068.java)  |
 |백준| 1967  | 트리 | [문제 풀이](/src/tree/baekjoon_1967.java)  |
 |백준| 1991  | 트리 | [문제 풀이](/src/tree/baekjoon_1991.java)  |
+|백준| 5639  | 트리 | [문제 풀이](/src/tree/baekjoon_5639.java)  |
 
 ## Greedy Algorithm
 |사이트| 문제 번호 | 문제 제목 | 문제 풀이                                    |
