@@ -26,6 +26,7 @@
 |백준| 9372  | 상근이의 여행 | [문제 풀이](/src/tree/baekjoon_9372.java)  |
 |백준| 9372  | 트리의 부모 찾기 | [문제 풀이](/src/tree/baekjoon_11725.java) |
 |백준| 1068  | 트리 | [문제 풀이](/src/tree/baekjoon_1068.java)  |
+|백준| 1967  | 트리 | [문제 풀이](/src/tree/baekjoon_1967.java)  |
 
 ## Greedy Algorithm
 |사이트| 문제 번호 | 문제 제목 | 문제 풀이                                    |
