@@ -29,6 +29,7 @@
 |백준| 1967  | 트리의 지름   | [문제 풀이](/src/tree/baekjoon_1967.java)  |
 |백준| 1991  | 트리 순회    | [문제 풀이](/src/tree/baekjoon_1991.java)  |
 |백준| 5639  | 이진 검색 트리 | [문제 풀이](/src/tree/baekjoon_5639.java)  |
+|백준| 17073 | 나무 위의 빗물 | [문제 풀이](/src/tree/baekjoon_17073.java) |
 
 ## Greedy Algorithm
 |사이트| 문제 번호 | 문제 제목 | 문제 풀이                                    |
