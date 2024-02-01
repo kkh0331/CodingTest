@@ -10,15 +10,16 @@
 |백준| 2493  | 탑      | [문제 풀이](/src/data_structure/baekjoon_2493.java)  |
 
 ## Data Structure 2
-|사이트| 문제 번호 | 문제 제목              | 문제 풀이                                              |
-|---|-------|--------------------|----------------------------------------------------|
-|백준| 7785  | 회사에 있는 사람          | [문제 풀이](/src/data_structure_2/baekjoon_7785.java)  |
+|사이트| 문제 번호 | 문제 제목              | 문제 풀이                                          |
+|---|-------|--------------------|------------------------------------------------|
+|백준| 7785  | 회사에 있는 사람          | [문제 풀이](/src/data_structure_2/baekjoon_7785.java) |
 |백준| 11279 | 최대 힙               | [문제 풀이](/src/data_structure_2/baekjoon_11279.java) |
-|백준| 7662  | 이중 우선순위 큐          | [문제 풀이](/src/data_structure_2/baekjoon_7662.java)  |
+|백준| 7662  | 이중 우선순위 큐          | [문제 풀이](/src/data_structure_2/baekjoon_7662.java) |
 |백준| 21939 | 문제 추천 시스템 Version 1 | [문제 풀이](/src/data_structure_2/baekjoon_21939.java) |
-|백준| 2075  | N번째 큰 수            | [문제 풀이](/src/data_structure_2/baekjoon_2075.java)  |
-|백준| 4358  | 생태학                | [문제 풀이](/src/data_structure_2/baekjoon_4358.java)  |
-|백준| 2696  | 중앙값 구하기            | [문제 풀이](/src/data_structure_2/baekjoon_2696.java)  |
+|백준| 2075  | N번째 큰 수            | [문제 풀이](/src/data_structure_2/baekjoon_2075.java) |
+|백준| 4358  | 생태학                | [문제 풀이](/src/data_structure_2/baekjoon_4358.java) |
+|백준| 2696  | 중앙값 구하기            | [문제 풀이](/src/data_structure_2/baekjoon_2696.java) |
+|백준| 21942 | 부품 대여장             | [문제 풀이](/src/data_structure_2/baekjoon_21942.java)  |
 
 ## Tree
 |사이트| 문제 번호 | 문제 제목        | 문제 풀이                                  |
