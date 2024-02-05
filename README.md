@@ -52,3 +52,8 @@
 |백준| 11401 | 이항 계수 3 | [문제 풀이](/src/divide_and_conquer/baekjoon_11401.java) |
 |백준| 2740  | 행렬 곱셈  | [문제 풀이](/src/divide_and_conquer/baekjoon_2740.java)  |
 |백준| 10830 | 행렬 제곱  | [문제 풀이](/src/divide_and_conquer/baekjoon_10830.java) |
+
+## Dynamic Programming
+|사이트| 문제 번호 | 문제 제목   | 문제 풀이                                                 |
+|---|-------|---------|-------------------------------------------------------|
+|백준| 11052 | 카드 구매하기 | [문제 풀이](/src/dynamic_programming/baekjoon_11052.java) |
