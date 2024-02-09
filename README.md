@@ -59,3 +59,4 @@
 |백준| 11052 | 카드 구매하기  | [문제 풀이](/src/dynamic_programming/baekjoon_11052.java) |
 |백준| 9184  | 신나는 함수 실행 | [문제 풀이](/src/dynamic_programming/baekjoon_9184.java)  |
 |백준| 14501 | 퇴사       | [문제 풀이](/src/dynamic_programming/baekjoon_14501.java) |
+|백준| 9465  | 스티커      | [문제 풀이](/src/dynamic_programming/baekjoon_9465.java)  |
